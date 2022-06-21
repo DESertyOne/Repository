@@ -1,0 +1,8 @@
+C:\Users\Александр\Desktop\Repositori\Progect\Project\NewProgect\Practical work\PracticalWork2\bin\Debug\PracticalWork2.exe.config
+C:\Users\Александр\Desktop\Repositori\Progect\Project\NewProgect\Practical work\PracticalWork2\bin\Debug\PracticalWork2.exe
+C:\Users\Александр\Desktop\Repositori\Progect\Project\NewProgect\Practical work\PracticalWork2\bin\Debug\PracticalWork2.pdb
+C:\Users\Александр\Desktop\Repositori\Progect\Project\NewProgect\Practical work\PracticalWork2\obj\Debug\PracticalWork2.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Repositori\Progect\Project\NewProgect\Practical work\PracticalWork2\obj\Debug\PracticalWork2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\Desktop\Repositori\Progect\Project\NewProgect\Practical work\PracticalWork2\obj\Debug\PracticalWork2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Repositori\Progect\Project\NewProgect\Practical work\PracticalWork2\obj\Debug\PracticalWork2.exe
+C:\Users\Александр\Desktop\Repositori\Progect\Project\NewProgect\Practical work\PracticalWork2\obj\Debug\PracticalWork2.pdb
