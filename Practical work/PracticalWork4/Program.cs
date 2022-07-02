@@ -2,7 +2,7 @@
 
 namespace PracticalWork4
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -12,18 +12,17 @@ namespace PracticalWork4
             Console.Write("Введите количество столбцов: ");
             int numbColumn = int.Parse(Console.ReadLine());
 
-            Random r = new Random();
-
             int[,] matrix = new int[numbString, numbColumn];
+            Random r = new Random();
 
             for (int i = 0; i < numbString; i++)
             {
                 for (int j = 0; j < numbColumn; j++)
                 {
                     matrix[i, j] = r.Next(10);
-                    Console.WriteLine($"{matrix[i, j]} ");
+                    Console.Write($"{matrix[i, j]} ");
                 }
-                Console.ReadKey();
+                Console.WriteLine();
             }
         }
     }
