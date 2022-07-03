@@ -12,18 +12,20 @@ namespace PracticalWork4
             Console.Write("Введите количество столбцов: ");
             int numbColumn = int.Parse(Console.ReadLine());
 
-            int[,] matrix = new int[numbString, numbColumn];
+            var matrix = new int[numbString, numbColumn];
             Random r = new Random();
+            int sum = 0;
 
             for (int i = 0; i < numbString; i++)
             {
                 for (int j = 0; j < numbColumn; j++)
                 {
                     matrix[i, j] = r.Next(10);
-                    Console.Write($"{matrix[i, j]} ");
+                    sum += matrix[i, j];
+                    Console.WriteLine($"{matrix[i, j]} ");
                 }
-                Console.WriteLine();
             }
+            Console.WriteLine($"\nСумма всех чисел: {sum}");
         }
     }
 }
