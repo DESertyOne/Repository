@@ -20,12 +20,13 @@ namespace PracticalWork4
             {
                 for (int j = 0; j < numbColumn; j++)
                 {
-                    matrix[i, j] = r.Next(10);
+                    matrix[i, j] = r.Next();
                     sum += matrix[i, j];
-                    Console.WriteLine($"{matrix[i, j]} ");
+
+                    Console.Write($"{matrix[i, j]} ");
                 }
             }
-            Console.WriteLine($"\nСумма всех чисел: {sum}");
+            Console.WriteLine($"Сумма чисел = {sum}");
         }
     }
 }
