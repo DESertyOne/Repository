@@ -25,6 +25,7 @@ namespace PracticalWork4
 
                     Console.Write($"{matrix[i, j]} ");
                 }
+                Console.WriteLine();
             }
             Console.WriteLine($"Сумма чисел = {sum}");
         }
