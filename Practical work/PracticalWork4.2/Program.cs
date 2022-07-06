@@ -21,7 +21,7 @@ namespace PracticalWork4._2
             {
                 if (massiv[i] < minNumber) minNumber = massiv[i];
             }
-                Console.WriteLine($"Наименьшее число: {minNumber}");
+            Console.WriteLine($"Наименьшее число: {minNumber}");
         }
     }
 }
