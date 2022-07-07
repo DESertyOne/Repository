@@ -19,14 +19,21 @@ namespace PracticalWork4._3
             while (true)
             {
                 Console.Write("Введите число: ");
-                int numb = int.Parse(Console.ReadLine());
+
+                string numb = Console.ReadLine();
                 int count = 0; // если вдруг надо будет подключить счетчик для вывода количества попыток
-                
-                if (numbRandom < numb)
+
+                if (string.IsNullOrWhiteSpace(numb))
+                {
+                    Console.WriteLine($"Загаданное число {numbRandom}");
+                    break;
+                }
+                bool result = int.TryParse(numb, out var numbUser);
+                if (numbRandom < numbUser)
                 {
                     Console.WriteLine("Ваше число больше загаданного,попробуй еще раз =)");
                 }
-                else if (numbRandom > numb)
+                else if (numbRandom > numbUser)
                 {
                     Console.WriteLine("Ваше число меньше загаданного,попробуй еще раз =)");
                 }
@@ -39,5 +46,7 @@ namespace PracticalWork4._3
         }
 
     }
+
 }
+
 
