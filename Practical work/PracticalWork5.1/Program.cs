@@ -10,7 +10,19 @@ namespace PracticalWork5._1
     {
         static void Main(string[] args)
         {
+            string word = Console.ReadLine();
 
+             private void wordDivision()
+            {
+                string[] strings = word.Split(' ','.');
+            }
+             private void wordOutput()
+            {
+                foreach(var words in wordDivision())
+                {
+                    Console.WriteLine($"{words}");
+                }
+            }
         }
     }
 }
