@@ -12,15 +12,15 @@ namespace PracticalWork5._1
         {
             string word = Console.ReadLine();
 
-             static void wordDivision()
+             private static void WordDivision()
             {
                 string[] strings = word.Split(' ', '.');
+                
             }
-             static void wordOutput()
+             private static void WordOutput()
             {
                 foreach(var words in wordDivision())
                 {
-                    Console.WriteLine($"{words}");
                 }
             }
         }
