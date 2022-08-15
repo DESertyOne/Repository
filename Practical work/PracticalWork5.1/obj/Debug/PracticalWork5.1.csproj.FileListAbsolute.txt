@@ -1,3 +1,8 @@
 C:\Users\Александр\Desktop\Repository\Repository\Practical work\PracticalWork5.1\obj\Debug\PracticalWork5.1.csproj.AssemblyReference.cache
 C:\Users\Александр\Desktop\Repository\Repository\Practical work\PracticalWork5.1\obj\Debug\PracticalWork5.1.csproj.SuggestedBindingRedirects.cache
 C:\Users\Александр\Desktop\Repository\Repository\Practical work\PracticalWork5.1\obj\Debug\PracticalWork5.1.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Repository\Repository\Practical work\PracticalWork5.1\bin\Debug\PracticalWork5.1.exe.config
+C:\Users\Александр\Desktop\Repository\Repository\Practical work\PracticalWork5.1\bin\Debug\PracticalWork5.1.exe
+C:\Users\Александр\Desktop\Repository\Repository\Practical work\PracticalWork5.1\bin\Debug\PracticalWork5.1.pdb
+C:\Users\Александр\Desktop\Repository\Repository\Practical work\PracticalWork5.1\obj\Debug\PracticalWork5.1.exe
+C:\Users\Александр\Desktop\Repository\Repository\Practical work\PracticalWork5.1\obj\Debug\PracticalWork5.1.pdb
