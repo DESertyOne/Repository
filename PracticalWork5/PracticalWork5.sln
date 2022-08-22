@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalWork5", "PracticalWork5.csproj", "{4FE97023-EB2A-495A-97CF-F4FD0364E36B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalWork5.2", "..\PracticalWork5.2\PracticalWork5.2.csproj", "{35C8C925-DEC4-4987-B711-B54BC1C3E76E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4FE97023-EB2A-495A-97CF-F4FD0364E36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FE97023-EB2A-495A-97CF-F4FD0364E36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FE97023-EB2A-495A-97CF-F4FD0364E36B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C8C925-DEC4-4987-B711-B54BC1C3E76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C8C925-DEC4-4987-B711-B54BC1C3E76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C8C925-DEC4-4987-B711-B54BC1C3E76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C8C925-DEC4-4987-B711-B54BC1C3E76E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
