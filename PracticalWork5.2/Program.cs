@@ -1,34 +1,31 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
- 
+
 namespace PracticalWork5._2
 {
     internal class Program
     {
-        public static void WordDivision()
+        private static string WordDivision(string text) // 
         {
-            string word = Console.ReadLine();
-            string [] words = word.Split(' ');
+            string[] WordDivision = text.Split(' ');
+            string newText = ReverseWord(WordDivision);
+            return newText;
+        }
 
-        }
-        public static void ReversWords(string inputPharse)
+        private static string ReverseWord(string[] text) // 
         {
-            Console.ReadLine();
-            inputPharse.Reverse();
-            foreach (var revers in inputPharse)
-            {
-                Console.WriteLine($"{revers}");
-            }
+            Array.Reverse(text);
+            string resultWord = string.Join(" ", text);
+            return resultWord;
         }
+
         private static void Main()
         {
-            ReversWords("");
-            {
-                WordDivision();
-            }
-            Console.ReadKey();
+            string newWord = Console.ReadLine();
+            newWord = WordDivision(newWord);
+
+
+            Console.WriteLine(newWord);
+            _ = Console.ReadLine();
         }
     }
 }
