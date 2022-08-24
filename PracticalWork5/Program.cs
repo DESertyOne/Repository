@@ -4,7 +4,6 @@ namespace PracticalWork5
 {
     internal class Program
     {
-
         public static void WordDivision()
         {
             string word = Console.ReadLine();
@@ -24,6 +23,5 @@ namespace PracticalWork5
             WordDivision();
             Pause();
         }
-
     }
 }
