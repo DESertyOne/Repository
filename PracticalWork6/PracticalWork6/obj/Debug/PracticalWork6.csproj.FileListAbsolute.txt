@@ -1,0 +1,8 @@
+D:\RepositoryWork\Repository\PracticalWork6\PracticalWork6\bin\Debug\PracticalWork6.exe.config
+D:\RepositoryWork\Repository\PracticalWork6\PracticalWork6\bin\Debug\PracticalWork6.exe
+D:\RepositoryWork\Repository\PracticalWork6\PracticalWork6\bin\Debug\PracticalWork6.pdb
+D:\RepositoryWork\Repository\PracticalWork6\PracticalWork6\obj\Debug\PracticalWork6.csproj.AssemblyReference.cache
+D:\RepositoryWork\Repository\PracticalWork6\PracticalWork6\obj\Debug\PracticalWork6.csproj.SuggestedBindingRedirects.cache
+D:\RepositoryWork\Repository\PracticalWork6\PracticalWork6\obj\Debug\PracticalWork6.csproj.CoreCompileInputs.cache
+D:\RepositoryWork\Repository\PracticalWork6\PracticalWork6\obj\Debug\PracticalWork6.exe
+D:\RepositoryWork\Repository\PracticalWork6\PracticalWork6\obj\Debug\PracticalWork6.pdb
